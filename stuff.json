@@ -1,0 +1,33 @@
+[
+  {
+    "Disabled": false,
+    "Testing": false,
+    "IsThirdParty": false,
+    "Author": "ArchiDog1998",
+    "Name": "Rotation Solver",
+    "Punchline": "bla",
+    "Description": "bla",
+    "Tags": ["Attack"],
+    "CategoryTags": ["jobs"],
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/moewcorp/AutoAction/main/gifs/ExampleDNC.gif"
+    ],
+    "IsHide": false,
+    "InternalName": "RotationSolver",
+    "AssemblyVersion": "0.11.0.2",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 7,
+    "DownloadCount": 0,
+    "LastUpdate": 0,
+    "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/latest/download/latest_INT.zip",
+    "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/latest/download/latest_INT.zip",
+    "DownloadLinkTesting": "https://github.com/ArchiDog1998/RotationSolver/releases/latest/download/latest_INT.zip",
+    "LoadPriority": 0,
+    "IconUrl": "https://github.com/ArchiDog1998/RotationSolver/raw/main/docs/RotationSolverIcon_128.png",
+    "AcceptsFeedback": true,
+    "FeedbackMessage": null,
+    "FeedbackWebhook": null
+  }
+]
